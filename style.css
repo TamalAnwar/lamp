@@ -1,0 +1,21 @@
+body {
+  background: #0b0d0c;
+  color: #ffffff;
+}
+
+#lamp {
+  width: 400px;
+  height: 400px;
+}
+
+#switch {
+  cursor: pointer;
+}
+
+.lampOn {
+  background: url('images/lamp-on.jpg');
+}
+
+.lampOff {
+  background: url('images/lamp-off.jpg');
+}
